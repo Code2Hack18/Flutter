@@ -5,7 +5,7 @@ void main() {
     home: Scaffold(
       appBar: AppBar(
         // ignore: prefer_const_constructors
-        title: Text('Home'),
+        title: Text('SignUp'),
         centerTitle: true,
         backgroundColor: Colors.blue.shade900,
       ),
