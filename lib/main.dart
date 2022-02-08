@@ -5,7 +5,7 @@ void main() {
     home: Scaffold(
       appBar: AppBar(
         // ignore: prefer_const_constructors
-        title: Text('Login'),
+        title: Text('Home'),
         centerTitle: true,
         backgroundColor: Colors.blue.shade900,
       ),
